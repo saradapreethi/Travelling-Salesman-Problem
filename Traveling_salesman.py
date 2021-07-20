@@ -1,5 +1,5 @@
 ################################## 
-# Q1: Traveling Salesman Problem
+# Traveling Salesman Problem
 # @author: Sarada Chandrasekar
 ##################################
 
